@@ -1,0 +1,141 @@
+npm install --legacy-peer-deps  - > Lyuboy hatolini bizvoradi
+
+powercfg.exe -energy
+
+git config --global user.name "Your Name"
+git config --global user.email your.email@example.com
+
+
+
+
+
+
+
+
+x -> 100%
+2290 000 -> 30%
+
+
+
+
+
+
+
+
+
+
+
+
+//Agar malumot takrorlansa takrorini tashab ketadi.
+
+function unique(arr) {
+  let res = [];
+
+  for (let num of arr) {
+        if (!res.includes(num)) res.push(num)
+     }
+         return res;
+  }
+
+    let number = [1, 2, 1, 3, 4, 1, 12];
+    console.log(unique(number));
+
+
+
+stillafrontend@gmail.com
+stilla6464
+
+
+
+Rating: {{$node["FunctionItem1"].json["rating"]}}
+Title: {{$node["FunctionItem1"].json["title"]}}
+Poster: https://image.tmdb.org/t/p/w300/{{$node["FunctionItem1"].json["images"]}}
+Description: {{$node["FunctionItem1"].json["description"]}}
+
+
+Runner.instance_.gameOver = () =>{}
+
+
+let namePdf = context.props.getPdf;
+
+let str = []
+	for(let i = 0; i < namePdf.length; i++){
+   		str[i] = namePdf[i].file
+	}
+	console.log(str);
+	return str;
+
+
+ - Введите netsh winsock reset и нажмите клавишу ВВОД.
+- Введите netsh int ip reset и нажмите клавишу ВВОД.
+- Введите ipconfig /release и нажмите клавишу ВВОД.
+- Введите ipconfig /renew и нажмите клавишу ВВОД.
+- Введите ipconfig /flushdns и нажмите клавишу ВВОД.
+
+
+// Call back function
+function showWindow(result) {
+    console.log(result);
+}
+
+function add(num1, num2, callBack) {
+    let sum = num1 + num2
+    callBack(sum);
+}
+
+add(10, 20, showWindow)
+
+
+
+
+
+
+
+:atribut -> v-bind:atribut ->buni qsqartrib : qoysayam bolad. atributla bilan ishlash uchun qollaniladi 
+@click -> v-on:click -> buni qsqartrib @ qoysayam bolad. eventlar click ni qollash
+v-for="note in notes" -> vue da sikl yaratish atribut sifatida
+v-on:keypress.enter="addHandler" -> keypress orqali knopkala bilan muomala qisa bolarkaaan
+v-if="" -> 
+v-else
+v-else-if="" ->
+:style -> style berish uchun
+v-model="" -> inputdan malumot olish uchun ishlidi (e.target.value  ornini bosadi)
+v-text="title" -> interpolyatsiya {{title}}
+v-once -> const ga oxshagan ozagartirib bomidi
+v-pre -> pre tegidan olingan bolib kod yozilgan bosayam text qilib chqarberadi
+v-show="" -> ifni vazifasini bajarib beradi.  korsatish
+@click.stop ->  agar elemnti ichida 2 ta elemtn turgan bosa bitta elemnt uchun ishlamdiigan qilib qoyiladi
+@click.prevent -> preventDefault ni vue dagi versiyasi
+:key -> immenno tanlangan element bilan ishlash
+
+data()
+methods: -> ichidigila har gal ishlivuradi
+computed: -> ichidigilari faqatagina 1 marta ishlidi optimization
+watch: -> следить за свойствами. и менят их.
+template: -> html elementlarini js da yoziladi. (DOM)
+render() -> elementlarni render qiladi
+
+beforeCreate() ->
+created() -> 
+beforeMount() ->
+mounted() ->
+beforeUnmount() ->
+unmounted() ->
+beforeUpdate() ->
+updated() ->
+
+
+
+tsc --init -> tsconfig.json
+"watch": true -> autocompilartor
+tsc index.js -> compilator file
+tsc -locale ru -> ruschaga ogirberadi
+
+
+box shadowlar 
+text shadowlar
+
+
+
+
+
